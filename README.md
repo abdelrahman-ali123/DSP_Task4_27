@@ -25,9 +25,9 @@ A Web Application for **Image Processing** using python. The application merge b
   | Names                                                       | Section   | Bench Number   |
   | ----------------------------------------------------------- | :-------: | :------------: |
   | [Abdelrahman Ali](https://github.com/abdelrahman-ali123)    |     1     |      55        |
-  | [Abdelrahman Sameh]()   |     1     |      53        |
+  | [Abdelrahman Sameh](https://github.com/AbdelrahmanSameh1)   |     1     |      53        |
   | [Mina Fakhry](https://github.com/MInaAzer01)                |     2     |      45        |
-  | [Beshara Safwat]()              |     1     |      22        |
+  | [Beshara Safwat](https://github.com/BesharaSafwat)          |     1     |      22        |
   
 
 ## Submitted to:
