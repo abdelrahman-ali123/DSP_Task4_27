@@ -3,7 +3,7 @@
   - [Brief-Description](#brief-description)
   - [Demos](#demos)
   - [Features](#features)
-  - [Task-Info.](#task-info.)
+  - [Task-Info](#task-info)
   - [Team](#team)
 
 ## Brief Description
@@ -13,17 +13,19 @@ A Web Application for **Image Processing** using python. The application merge b
 ## Demos
 1. Merging mag of 1st image + phase of 2nd image
 
-![This is an image](static\Imgs\Images\mag1andphase2.png)
+![This is an image](static/Imgs/Images/mag1andphase2.png)
 
 2. Merging mag of 2nd image + phase of 1st image 
 
-![This is an image](static\Imgs\Images\mag2andphase1.png)
+![This is an image](static/Imgs/Images/mag2andphase1.png)
 
 3. Uniform Magnitude 
-![This is an image](static\Imgs\Images\uniform_mag.png)
+
+![This is an image](static/Imgs/Images/uniform_mag.png)
 
 4. Uniform Phase
-![This is an image](static\Imgs\Images\uniform_phase.png)
+
+![This is an image](static/Imgs/Images/uniform_phase.png)
 
 
 ## Features
@@ -32,14 +34,14 @@ A Web Application for **Image Processing** using python. The application merge b
 > 3. You can also check **High Pass Filter** -if you want- by changing (if condition) by this line{ if (WIDTH >= self.    Boundaries[1][0] and WIDTH <= self.Boundaries[1][1]) and (HEIGHT > self.Boundaries[0][0] and HEIGHT <= self.Boundaries[0][1]): }
   1. (high pass filter)Merging mag of 1st image + phase of 2nd image
 
-  ![This is an image](static\Imgs\Images\HPF(mag1andphase2).png)
+  ![This is an image](static/Imgs/Images/HPF(mag1andphase2).png)
 
   2. (high pass filter)Merging mag of 2nd image + phase of 1st image 
 
-  ![This is an image](static\Imgs\Images\HPF(mag2andphase1).png)
+  ![This is an image](static/Imgs/Images/HPF(mag2andphase1).png)
 
 
-## Task-Info. 
+## Task-Info
 - This course is about _Digital Signal Processing_ for Third-year of Department of Medical Engineering, first semester on **5th Nov.2022**
 
 ## Team 
